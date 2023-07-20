@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bisimusic
 - 👀 I’m interested in creating value for creative communities
-- 🌱 I’m currently learning about NFTS and Web 3
+- 🌱 I’m currently learning about Network effects & Venture
 - 💞️ I’m looking to collaborate on Soundch3k app
 - 📫 How to reach me @bisimusik on twitter or bisimusic on instagram
 
