@@ -2,7 +2,7 @@
 - Founder/CEO @ JustiGuide
 - 👀 I’m interested in creating value for communities
 - 🌱 I’m currently learning about Network effects & Venture
-- 💞️ I’m looking to collaborate on Soundch3k app
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me @bisimusik on twitter or bisimusic on instagram
 
 <!---
