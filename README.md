@@ -11,9 +11,9 @@ how AI systems behave in high-stakes, regulated settings.
 [JustiGuide](https://www.justi.guide)** — AI-native platform turning immigration from a permission-based
 bureaucracy into rights-based infrastructure.
 
-- Dolores** — LoRA fine-tuned petition reviewer, trained on H100s. Includes a custom
+- Dolores — LoRA fine-tuned petition reviewer, trained on H100s. Includes a custom
   137-example UPL compliance dataset for refusal calibration in legal contexts.
-- Relo** — immigrant-facing pathway navigator agent.
+- Relo — immigrant-facing pathway navigator agent.
 - Regulatory Simulation Engine (RSE)** — evaluation framework for model behavior in
   agentic, multi-step regulatory scenarios.
 - Model-agnostic orchestration across Anthropic, OpenAI, Voyage AI, and Deepgram —
