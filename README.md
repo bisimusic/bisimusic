@@ -1,6 +1,6 @@
 👋 Hi, I'm Bisi
 
-Founder & CEO at [JustiGuide](https://www.justi.guide) — building AI infrastructure for global mobility.
+Founder & CEO at [JustiGuide](https://www.justiguide.com) — building AI infrastructure for global mobility.
 Lagos → San Francisco. Engineer, operator, and increasingly: someone who thinks about
 how AI systems behave in high-stakes, regulated settings.
 
