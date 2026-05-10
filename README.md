@@ -36,5 +36,6 @@ work that connects model behavior to real-world consequences.
 ---
 
 📫 Reach me
-
-bisi@justiguide.com
+- 🌐 [justi.guide](https://www.justiguide.com) · ✍️ [JustiGuide blog](https://immigrationnavigator.substack.com/)
+- 𝕏 [@bisimusik](https://twitter.com/bisimusik) · 📷 [@bisimusic](https://instagram.com/bisimusic)
+- ✉️ bisi@busybisi.com
